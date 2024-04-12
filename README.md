@@ -1,2 +1,3 @@
 # Recipe_page
-(.assets/images/desktop-preview.jpg)
+![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+![](./assets/images/desktop-preview.jpg)
